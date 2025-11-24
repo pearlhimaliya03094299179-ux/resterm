@@ -1,6 +1,6 @@
 <h1 align="center">Resterm</h1>
 
-<p align="center">
+ <p align="center">
   <em>a terminal-based REST/GraphQL/gRPC/WebSocket/SSE client.</em>
 </p>
 
